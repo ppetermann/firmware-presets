@@ -133,8 +133,6 @@
   },
   "uniqueValues": {
     "firmware_version": [
-      "3.5",
-      "4.2",
       "4.3"
     ],
     "category": [
@@ -150,13 +148,9 @@
     ],
     "author": [
       "Betaflight",
-      "Daniel Appel / Tehllama",
-      "Garban",
-      "Peter Petermann / PeterPowers",
-      "sugarK"
+      "Peter Petermann / PeterPowers"
     ],
     "keywords": [
-      "Acrobaix",
       "actual",
       "adjustments",
       "aux",
@@ -165,19 +159,13 @@
       "camera",
       "camera_control",
       "clear",
-      "Configure",
       "control",
-      "DDC",
       "default",
       "defaults",
-      "disable",
-      "ELRS",
       "expert",
       "filter",
       "filters",
-      "Garban",
       "GPS",
-      "gyroflow",
       "launch",
       "launch_mode",
       "leds",
@@ -188,7 +176,6 @@
       "names",
       "OSD",
       "partial",
-      "Passthrough",
       "pid",
       "profile",
       "Rates",
@@ -202,10 +189,8 @@
       "smoothing",
       "some",
       "stats",
-      "sugarK",
       "switch",
       "tune",
-      "utility",
       "vtx",
       "vtxtable"
     ]
@@ -285,26 +270,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/other/ELRS_Passthrough.txt",
-      "hash": "fcee0c30a390f30b0ef92dbba0cc15285674d4c9fdab23a0b469753d2efeaa9a",
-      "title": "ExpressLRS Passthrough Betaflight Settings",
-      "firmware_version": [
-        "3.5",
-        "4.2",
-        "4.3"
-      ],
-      "status": "OFFICIAL",
-      "category": "OTHER",
-      "keywords": [
-        "ELRS",
-        "Passthrough",
-        "Configure",
-        "utility"
-      ],
-      "author": "Daniel Appel / Tehllama",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/other/PP_5inch_defaults.txt",
       "hash": "023569470502acb47cc9fc0c5a8cbae23d834daf59bb43be6dcad8da0c27c0fa",
       "title": "Peter Petermann's 5\" defaults",
@@ -320,45 +285,6 @@
       ],
       "author": "Peter Petermann / PeterPowers",
       "force_options_review": true,
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/blackbox_disable.txt",
-      "hash": "71fc4b4cc44366fbbd91ad1aaf882cddd103fae91c4230988a5ebbb67b6bac5d",
-      "title": "4.3 Blackbox disable settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "blackbox",
-        "logging",
-        "log",
-        "disable",
-        "sugarK"
-      ],
-      "author": "sugarK",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/other/gyroflow_min_blackbox.txt",
-      "hash": "15c71e564d549b8e3abd80026c83ff17241606137af32dd5a7b6f42ee228cc4c",
-      "title": "Gyroflow minimum settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "gyroflow",
-        "blackbox",
-        "log",
-        "DDC",
-        "Acrobaix",
-        "Garban"
-      ],
-      "author": "Garban",
       "priority": 0
     },
     {
